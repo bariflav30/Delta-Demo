@@ -1,0 +1,46 @@
+
+
+/* -------------------------------------------
+Filename: Jabari Portfolio
+Title: Portfolio
+Author: Jabari Augustin
+/*
+/* ----------- Previous website */
+
+/* ----------- RESET DEFAULT SETTINGS */
+
+/* -------------------------------------------
+					LAYOUT
+---------------------------------------------*/
+body {
+background-color: #ffffff; /* Gray Background*/
+
+}
+#container {
+	width: 100%;
+	background-color: #ffffff;
+	background-repeat: repeat-y; 
+}
+
+#header {
+	width:1262px;
+	height: 926px;
+	position:fixed;
+	top:0;
+	left:50%;
+	margin-left: -640px;
+	background: url(../img/delta.png) no-repeat;
+
+}
+
+#content {
+	padding: 246px 0 0 315px;
+}
+p{
+	position: relative;
+	left: -34px;
+	top: 110px;
+	
+}
+
+
